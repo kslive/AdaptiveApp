@@ -10,4 +10,4 @@
 - Адаптация UI к Dark/Light Mode
 
 # Страница карточек
-![Uploading Запись_экрана_2021-11-27_в_16_15_28_SparkVideo.gif…]()
+![CardsScreen.gif…](https://github.com/kslive/AdaptiveApp/blob/main/CardsScreen.gif)
