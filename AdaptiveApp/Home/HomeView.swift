@@ -19,11 +19,29 @@ struct HomeView: View {
                 
             } // HStack
             .padding(.horizontal)
+            .padding(.leading, 14)
             .padding(.top, 30)
+            
+            ScrollView(.horizontal, showsIndicators: false) {
+                HStack(spacing: 20) {
+                    ForEach(0 ..< 5) { item in
+                        GeometryReader { geometry in
+                            SectionView()
+                                .rotation3DEffect(.degrees(geometry.frame(in: .global).minX - 30) / -20,
+                                                  axis: (0, 10, 0))
+                        } // GeometryReader
+                        .frame(width: 275, height: 275)
+                        
+                    } // ForEach
+                    
+                } // HStack
+                
+                .padding(30)
+                .padding(.bottom, 30)
+            } // ScrollView
             
             Spacer()
         } // VStack
-
     }
 }
 
