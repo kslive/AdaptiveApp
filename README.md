@@ -9,3 +9,6 @@
 
 # Страница карточек
 ![CardsScreen.gif…](https://github.com/kslive/AdaptiveApp/blob/main/CardsScreen.gif)
+
+# Home страница
+![HomeScreen.gif…](https://github.com/kslive/AdaptiveApp/blob/main/HomeScreen.gif)

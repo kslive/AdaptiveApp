@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6B4F2A832752897600F87986 /* RingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B4F2A822752897500F87986 /* RingView.swift */; };
 		6B9A044727523BD7004B493D /* AdaptiveAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B9A044627523BD7004B493D /* AdaptiveAppApp.swift */; };
 		6B9A044927523BD7004B493D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B9A044827523BD7004B493D /* ContentView.swift */; };
 		6B9A044B27523BDB004B493D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B9A044A27523BDB004B493D /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6B4F2A822752897500F87986 /* RingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RingView.swift; sourceTree = "<group>"; };
 		6B9A044327523BD7004B493D /* AdaptiveApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdaptiveApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B9A044627523BD7004B493D /* AdaptiveAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaptiveAppApp.swift; sourceTree = "<group>"; };
 		6B9A044827523BD7004B493D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 			children = (
 				6B9A044627523BD7004B493D /* AdaptiveAppApp.swift */,
 				6B9A044827523BD7004B493D /* ContentView.swift */,
+				6B4F2A822752897500F87986 /* RingView.swift */,
 				6B9A0466275280A0004B493D /* Home */,
 				6B9A045F27526E93004B493D /* Card */,
 				6B9A045E27526E8D004B493D /* Menu */,
@@ -197,6 +200,7 @@
 				6B9A046527527F83004B493D /* AvatarView.swift in Sources */,
 				6B9A045B27524A2D004B493D /* BottomCardView.swift in Sources */,
 				6B9A0468275280B9004B493D /* HomeView.swift in Sources */,
+				6B4F2A832752897600F87986 /* RingView.swift in Sources */,
 				6B9A04552752463F004B493D /* CardView.swift in Sources */,
 				6B9A044727523BD7004B493D /* AdaptiveAppApp.swift in Sources */,
 				6B9A046A27528636004B493D /* SectionView.swift in Sources */,
