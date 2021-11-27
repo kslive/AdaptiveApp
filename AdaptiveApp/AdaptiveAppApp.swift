@@ -12,6 +12,7 @@ struct AdaptiveAppApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            // Home()
         }
     }
 }

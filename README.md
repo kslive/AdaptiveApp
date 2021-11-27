@@ -12,3 +12,4 @@
 
 # Home страница
 ![HomeScreen.gif…](https://github.com/kslive/AdaptiveApp/blob/main/HomeScreen.gif)
+![HomeScreen2.gif…](https://github.com/kslive/AdaptiveApp/blob/main/HomeScreen2.gif)
