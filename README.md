@@ -10,4 +10,4 @@
 - Адаптация UI к Dark/Light Mode
 
 # Страница карточек
-![CardsScreen.gif…]()
+![CardsScreen.gif…](https://github.com/kslive/AdaptiveApp/blob/main/CardsScreen.gif)
